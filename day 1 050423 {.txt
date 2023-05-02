@@ -1,0 +1,13 @@
+day 1 05/04/23 {
+	klanten gesprek met armando {
+		game design document {
+			ik heb de naam van de speler aangepast naar wizard and van topdown heb ik "topdown 2,5D" gamaakt
+
+
+during the game spawn various enemies instead of enemies
+particels effects changed from only some spelles to spells and status effects
+aditional animations changed to include player and enemies
+aditionally there will also be: changed to"between rounds you will get power ups that give you either a buff or a new spell/effect, boss battle
+including the wave counter incresing as you survive a wave
+
+other features now include "the tittle screen will include an endless mode and a standart mode also will it have a watermark proving that it was a project made for the ROC
